@@ -6,6 +6,10 @@ sites:
     url: https://svg-to-png.ambler.app/
   - name: SVG to PNG (Render)
     url: $SVGTOPNG_RENDER
+  - name: Notion Widgets
+    url: https://notion-widgets.ambler.app/
+  - name: Notion Widgets (Render)
+    url: $NOTION_WIDGETS_RENDER
 
 status-website:
   cname: toolkit.status.ambler.app
