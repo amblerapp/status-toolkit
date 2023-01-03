@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 476,
-    "timeWeek": 335,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "time": 343,
+    "timeDay": 158,
+    "timeWeek": 326,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 310,
-    "timeWeek": 234,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "time": 254,
+    "timeDay": 297,
+    "timeWeek": 255,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://notion-widgets.ambler.app/",
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.app.ico",
     "slug": "notion-widgets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 357,
-    "timeDay": 492,
-    "timeWeek": 334,
+    "timeDay": 360,
+    "timeWeek": 351,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-03": 0
+    }
   },
   {
     "name": "Notion Widgets (Render)",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 416,
-    "timeWeek": 272,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 290,
+    "timeDay": 349,
+    "timeWeek": 300,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   }
 ]
