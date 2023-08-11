@@ -1,7 +1,7 @@
 url: $NOTION_WIDGETS_RENDER
-status: up
-code: 200
-responseTime: 148
-lastUpdated: 2023-08-10T23:06:31.484Z
+status: down
+code: 500
+responseTime: 28
+lastUpdated: 2023-08-11T04:09:05.358Z
 startTime: Wed Dec 21 2022 16:57:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
