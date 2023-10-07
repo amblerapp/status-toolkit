@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 336,
-    "timeDay": 334,
-    "timeWeek": 333,
-    "timeMonth": 309,
-    "timeYear": 336,
+    "time": 335,
+    "timeDay": 134,
+    "timeWeek": 314,
+    "timeMonth": 304,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2023-08-11": 80
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 242,
-    "timeDay": 215,
-    "timeWeek": 190,
-    "timeMonth": 186,
+    "timeDay": 60,
+    "timeWeek": 171,
+    "timeMonth": 179,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2023-08-11": 80
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.app.ico",
     "slug": "notion-widgets",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 355,
-    "timeDay": 363,
-    "timeWeek": 314,
-    "timeMonth": 294,
+    "timeDay": 144,
+    "timeWeek": 280,
+    "timeMonth": 286,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2023-08-11": 80,
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 249,
-    "timeDay": 254,
-    "timeWeek": 211,
-    "timeMonth": 210,
+    "timeDay": 249,
+    "timeWeek": 216,
+    "timeMonth": 212,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-08-11": 80
