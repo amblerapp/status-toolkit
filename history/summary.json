@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.app.ico",
     "slug": "svg-to-png",
     "status": "down",
-    "uptime": "70.10%",
+    "uptime": "70.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.27%",
+    "uptimeYear": "10.99%",
     "time": 330,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 362,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-12-09": 80,
+      "2025-12-10": 82,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -355,9 +356,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 237,
-    "timeDay": 214,
-    "timeWeek": 260,
-    "timeMonth": 239,
+    "timeDay": 177,
+    "timeWeek": 257,
+    "timeMonth": 236,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-12-05": 33
@@ -369,7 +370,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.app.ico",
     "slug": "notion-widgets",
     "status": "down",
-    "uptime": "54.21%",
+    "uptime": "54.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -380,7 +381,8 @@
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-12-09": 80,
+      "2025-12-10": 82,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -743,8 +745,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   },
   {
@@ -753,18 +754,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "notion-widgets-render",
     "status": "down",
-    "uptime": "54.21%",
+    "uptime": "54.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 218,
-    "timeDay": 137,
-    "timeWeek": 191,
-    "timeMonth": 200,
+    "timeDay": 223,
+    "timeWeek": 206,
+    "timeMonth": 197,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-12-09": 80,
+      "2025-12-10": 82,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -1127,8 +1129,7 @@
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
-      "2024-12-11": 1440,
-      "2024-12-10": 1440
+      "2024-12-11": 1440
     }
   }
 ]
