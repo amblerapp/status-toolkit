@@ -1,7 +1,7 @@
 url: $SVGTOPNG_RENDER
-status: down
-code: 502
-responseTime: 84
-lastUpdated: 2025-12-19T11:54:32.387Z
+status: up
+code: 200
+responseTime: 394
+lastUpdated: 2025-12-19T12:16:23.635Z
 startTime: 2022-12-21T16:49:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
