@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.app.ico",
     "slug": "svg-to-png",
     "status": "down",
-    "uptime": "60.49%",
+    "uptime": "60.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1373,
+    "time": 300,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 167,
+      "2026-05-31": 211,
+      "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -379,8 +380,7 @@
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
-      "2025-06-01": 1440,
-      "2025-05-31": 1440
+      "2025-06-01": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 222,
-    "timeWeek": 276,
+    "timeDay": 253,
+    "timeWeek": 264,
     "timeMonth": 248,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.app.ico",
     "slug": "notion-widgets",
     "status": "down",
-    "uptime": "46.78%",
+    "uptime": "46.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 255,
+    "time": 242,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 167,
+      "2026-05-31": 211,
+      "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -784,8 +785,7 @@
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
-      "2025-06-01": 1440,
-      "2025-05-31": 1440
+      "2025-06-01": 1440
     }
   },
   {
@@ -794,18 +794,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "notion-widgets-render",
     "status": "down",
-    "uptime": "46.78%",
+    "uptime": "46.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 225,
-    "timeDay": 156,
+    "timeDay": 123,
     "timeWeek": 132,
-    "timeMonth": 152,
+    "timeMonth": 151,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2026-05-30": 167,
+      "2026-05-31": 211,
+      "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -1168,8 +1169,7 @@
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
-      "2025-06-01": 1440,
-      "2025-05-31": 1440
+      "2025-06-01": 1440
     }
   }
 ]
