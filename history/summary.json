@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/svg-to-png.ambler.app.ico",
     "slug": "svg-to-png",
     "status": "down",
-    "uptime": "58.80%",
+    "uptime": "58.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 166,
+      "2026-07-06": 172,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -379,8 +380,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2025-07-07": 1440,
-      "2025-07-06": 1440
+      "2025-07-07": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 235,
-    "timeWeek": 242,
-    "timeMonth": 237,
+    "timeDay": 260,
+    "timeWeek": 243,
+    "timeMonth": 236,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2025-12-05": 33,
@@ -410,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/notion-widgets.ambler.app.ico",
     "slug": "notion-widgets",
     "status": "down",
-    "uptime": "45.47%",
+    "uptime": "45.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -421,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 166,
+      "2026-07-06": 172,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -784,8 +785,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2025-07-07": 1440,
-      "2025-07-06": 1440
+      "2025-07-07": 1440
     }
   },
   {
@@ -794,18 +794,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "notion-widgets-render",
     "status": "down",
-    "uptime": "45.48%",
+    "uptime": "45.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 215,
-    "timeDay": 108,
+    "time": 214,
+    "timeDay": 119,
     "timeWeek": 105,
     "timeMonth": 116,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-07-05": 166,
+      "2026-07-06": 172,
+      "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -1168,8 +1169,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2025-07-07": 1440,
-      "2025-07-06": 1440
+      "2025-07-07": 1440
     }
   }
 ]
